@@ -1,0 +1,16 @@
+D:\workspace\IfcEngineCS\bin\IFC2X3-Settings.xml
+D:\workspace\IfcEngineCS\bin\IFC4-Settings.xml
+D:\workspace\IfcEngineCS\bin\ifcengine_x32.dll
+D:\workspace\IfcEngineCS\bin\ifcengine_x64.dll
+D:\workspace\IfcEngineCS\bin\IFC2X3_TC1.exp
+D:\workspace\IfcEngineCS\bin\IFC4.exp
+D:\workspace\IfcEngineCS\bin\IFCViewer.exe.config
+D:\workspace\IfcEngineCS\bin\IFCViewer.exe
+D:\workspace\IfcEngineCS\bin\IFCViewer.pdb
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IfcViewer.csprojResolveAssemblyReference.cache
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IFCViewer.MainForm.resources
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IFCViewer.Properties.Resources.resources
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IfcViewer.csproj.GenerateResource.Cache
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IfcViewer.csproj.CoreCompileInputs.cache
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IFCViewer.exe
+D:\workspace\IfcEngineCS\IfcViewer\obj\Debug\IFCViewer.pdb
